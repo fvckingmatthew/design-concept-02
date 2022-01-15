@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="18px" viewBox="0 0 25 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Submit_Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-(Updated-04-Feb)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Contact-Us" transform="translate(-353.000000, -2974.000000)" stroke="#0700FF" stroke-width="2.97000003">
+            <g id="Submit_CTA" transform="translate(328.000000, 2943.000000)">
+                <g id="Submit_Arrow" transform="translate(36.498047, 39.304882) rotate(-315.000000) translate(-36.498047, -39.304882) translate(27.998047, 30.804882)">
+                    <path d="M16.64685,0.876149999 L0.876149999,16.64685" id="Submit-Path_2"></path>
+                    <polyline id="Submit-Path_1" points="6.13304999 0.876149999 16.64685 0.876149999 16.64685 11.38995"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

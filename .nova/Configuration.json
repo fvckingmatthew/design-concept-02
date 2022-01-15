@@ -1,0 +1,5 @@
+{
+  "workspace.name" : "www.wolfwhale.com",
+  "workspace.preview_server_allow_external" : true,
+  "workspace.preview_server_port" : 838383
+}

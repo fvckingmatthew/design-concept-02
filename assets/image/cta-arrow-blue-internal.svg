@@ -1,0 +1,17 @@
+
+<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Landing-Page" transform="translate(-652.000000, -441.000000)" stroke="#0700FF" stroke-width="2">
+            <g id="Header-Copy" transform="translate(213.000000, 134.500000)">
+                <g id="Sub" transform="translate(437.500000, 96.000000)">
+                    <g id="View-Work_CTA" transform="translate(1.000000, 205.500000)">
+                        <g id="View-CTA_Arrow" transform="translate(9.500000, 11.475880) rotate(-315.000000) translate(-9.500000, -11.475880) translate(3.000000, 4.975880)">
+                            <path d="M12.7299441,0.669997058 L0.669997058,12.7299441" id="View-CTA_Arrow-Path-2"></path>
+                            <polyline id="View-CTA_Arrow-Path-1" points="4.68997941 0.669997058 12.7299441 0.669997058 12.7299441 8.70996175"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
